@@ -77505,7 +77505,7 @@ wt(){var s=0,r=A.S(t.S),q
 var $async$wt=A.O(function(a,b){if(a===1)return A.P(b,r)
 while(true)switch(s){case 0:s=3
 return A.U(A.jv(B.bk,null,t.z),$async$wt)
-case 3:q=210
+case 3:q=260
 s=1
 break
 case 1:return A.Q(q,r)}})
@@ -77514,7 +77514,7 @@ wu(){var s=0,r=A.S(t.S),q
 var $async$wu=A.O(function(a,b){if(a===1)return A.P(b,r)
 while(true)switch(s){case 0:s=3
 return A.U(A.jv(B.bk,null,t.z),$async$wu)
-case 3:q=550
+case 3:q=750
 s=1
 break
 case 1:return A.Q(q,r)}})
@@ -77590,7 +77590,7 @@ case 6:case 1:return A.Q(q,r)
 case 2:return A.P(o.at(-1),r)}})
 return A.R($async$iu,r)}}
 A.IJ.prototype={
-O(a){return new A.x0(B.Js,"Tharanitharan K - Portfolio",A.rM(B.a1,null,"Inter",B.a4,B.Az,null),!1,null)}}
+O(a){return new A.x0(B.Js,"Iam Tharanitharan Kumarasamy",A.rM(B.a1,null,"Inter",B.a4,B.Az,null),!1,null)}}
 A.xI.prototype={
 af(){var s=null,r=t.C
 return new A.BL(A.yq(),A.v(t.S,t.y),B.e,new A.bo(s,r),new A.bo(s,r),new A.bo(s,r),new A.bo(s,r),new A.bo(s,r))}}
@@ -77751,7 +77751,7 @@ $1(a){return new A.lI(a,null)},
 $S:488}
 A.IR.prototype={
 O(a){var s=null,r=t.s
-return new A.lA("Projects",A.ey(A.b([new A.ok("BeeZet - Company Website & Admin Panel","A complete dynamic website and admin panel for an IT company. The admin panel allows for dynamic content management for projects, about section, contact, and careers.",A.b(["Flutter","PHP","MySQL","REST API"],r),"https://github.com/tharanitharan305/Beezet",s),B.cB,new A.ok("Brisa Munda Trust - NGO Website","Developed a dynamic website with an admin panel for an NGO, featuring membership and volunteer management, a dynamic gallery, and team member updates.",A.b(["Flutter","PHP","MySQL"],r),"https://github.com/tharanitharan305/brisa_munda_trust",s),B.cB,new A.ok("TAT - Grocery Billing App","A mobile application for a family grocery shop to generate bills faster and track weekly sales. Includes a companion HTML site for details and app updates.",A.b(["Flutter","Firebase","Bloc"],r),"https://github.com/tharanitharan305/tat",s)],t.D),B.aQ,B.V,B.aD),s)}}
+return new A.lA("Projects",A.ey(A.b([new A.ok("BeeZet - Company Website & Admin Panel","A complete dynamic website and admin panel for an IT company. The admin panel allows for dynamic content management for projects, about section, contact, and careers.",A.b(["Flutter","PHP","MySQL","REST API"],r),"https://beezetsoftwaresolution.com/",s),B.cB,new A.ok("Brisa Munda Trust - NGO Website","Developed a dynamic website with an admin panel for an NGO, featuring membership and volunteer management, a dynamic gallery, and team member updates.",A.b(["Flutter","PHP","MySQL"],r),"https://bm.beezetsoftwaresolution.com/",s),B.cB,new A.ok("TAT - Grocery Billing App","A mobile application for a family grocery shop to generate bills faster and track weekly sales. Includes a companion HTML site for details and app updates.",A.b(["Flutter","Firebase","Bloc"],r),"https://github.com/tharanitharan305/tat",s)],t.D),B.aQ,B.V,B.aD),s)}}
 A.Fl.prototype={
 O(a){var s=null
 return new A.lA("Certificates",A.ey(A.b([new A.n_("NPTEL - Introduction to programming in C","NPTEL","Elite + Silver",s),B.hh,new A.n_("NPTEL - Data Structure And Algorithms Using Java","NPTEL","Elite",s),B.hh,new A.n_("The Complete Flutter Development Bootcamp with Dart","Udemy","Completion",s)],t.D),B.aQ,B.V,B.aD),s)}}
