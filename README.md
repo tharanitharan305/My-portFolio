@@ -195,6 +195,23 @@ final developer = Developer(
 
 </td>
 </tr>
+<tr>
+  <td width="50%" align="center">
+
+### [`gitm8`](https://github.com/tharanitharan305/gitm8)
+
+[![npm version](https://img.shields.io/npm/v/gitm8?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/gitm8)
+[![license](https://img.shields.io/badge/license-MIT-4ade80?style=for-the-badge)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/tharanitharan305/gitm8?style=for-the-badge&color=ffd666)](https://github.com/tharanitharan305/gitm8)
+
+> **AI-powered Git CLI** — secrets scan · AI commits · build gate · code viz · ownership · repo atlas  
+> All offline · All free · One pipeline
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tharanitharan305/gitm8)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/gitm8)
+
+</td>
+</tr>
 </table>
 
 ---
